@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-**B21-CAP007/B21-CAP007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## MACHINE LEARNING
 
 ### 1. Setting up the environment
@@ -161,4 +158,8 @@ and use this command to export the model we trained
 ```
 python exporter_main_v2.py \ --trained_checkpoint_dir training \ --output_directory inference_graph \ --pipeline_config_path training/ssd_mobilenet_v2_320x320_coco17_tpu-8.config
 ```
+
+<!--
+**B21-CAP007/B21-CAP007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
